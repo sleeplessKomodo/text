@@ -1,0 +1,27 @@
+dkms-nvidia.x86_64                                   3:535.113.01-1.fc38                 @nobara-appstream
+
+nobara-nvidia-wizard.noarch                          1.1-13.fc38                         @nobara-baseos
+
+nvidia-driver.x86_64                                 3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-driver-NVML.x86_64                            3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-driver-cuda.x86_64                            3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-driver-cuda-libs.i686                         3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-driver-cuda-libs.x86_64                       3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-driver-libs.i686                              3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-driver-libs.x86_64                            3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-gpu-firmware.noarch                           20230919-1.fc38                     @updates
+
+nvidia-kmod-common.noarch                            3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-libXNVCtrl.x86_64                             3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-persistenced.x86_64                           3:535.113.01-1.fc38                 @nobara-appstream
+
+nvidia-settings.x86_64                               3:535.113.01-1.fc38                 @nobara-appstream
