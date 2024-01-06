@@ -1,0 +1,114 @@
+Started initial process 304063 from gamemoderun mangohud /home/jimbo/.local/share/Steam/compatibilitytools.d/GE-Proton8-25/files/bin/wine /home/jimbo/games/Silent Hill 2 (Director's Cut)/sh2pc.exe
+Start monitoring process.
+gamemodeauto: 
+gamemodeauto: 
+gamemodeauto: 
+gamemodeauto: 
+gamemodeauto: 
+fsync: up and running.
+wine: Using setpriority to control niceness in the [-19,19] range
+[2024-01-06 10:45:27.014] [MANGOHUD] [error] [overlay_params.cpp:999] Failed to read presets file: '/home/jimbo/.config/MangoHud/presets.conf'
+
+(wine:304160): GStreamer-WARNING **: 10:45:29.859: Failed to load plugin '/home/jimbo/.local/share/Steam/compatibilitytools.d/GE-Proton8-25/files/lib64/gstreamer-1.0/libgstflac.so': libFLAC.so.8: cannot open shared object file: No such file or directory
+
+(wine:304160): GStreamer-WARNING **: 10:45:30.055: Failed to load plugin '/home/jimbo/.local/share/Steam/compatibilitytools.d/GE-Proton8-25/files/lib64/gstreamer-1.0/libgstvpx.so': libvpx.so.6: cannot open shared object file: No such file or directory
+
+(wine:304160): GStreamer-WARNING **: 10:45:30.118: Failed to load plugin '/home/jimbo/.local/share/Steam/compatibilitytools.d/GE-Proton8-25/files/lib64/gstreamer-1.0/libgstbz2.so': libbz2.so.1.0: cannot open shared object file: No such file or directory
+
+(wine:304177): GStreamer-WARNING **: 10:45:33.699: Failed to load plugin '/home/jimbo/.local/share/Steam/compatibilitytools.d/GE-Proton8-25/files/lib/gstreamer-1.0/libgstflac.so': libFLAC.so.8: cannot open shared object file: No such file or directory
+
+(wine:304177): GStreamer-WARNING **: 10:45:33.701: Failed to load plugin '/home/jimbo/.local/share/Steam/compatibilitytools.d/GE-Proton8-25/files/lib/gstreamer-1.0/libgstvpx.so': libvpx.so.6: cannot open shared object file: No such file or directory
+
+(wine:304177): GStreamer-WARNING **: 10:45:33.702: Failed to load plugin '/home/jimbo/.local/share/Steam/compatibilitytools.d/GE-Proton8-25/files/lib/gstreamer-1.0/libgstbz2.so': libbz2.so.1.0: cannot open shared object file: No such file or directory
+libEGL warning: egl: failed to create dri2 screen
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+wine: configuration in L"/home/jimbo/.wine" has been updated.
+[2024-01-06 10:45:34.655] [MANGOHUD] [error] [overlay_params.cpp:999] Failed to read presets file: '/home/jimbo/.config/MangoHud/presets.conf'
+[2024-01-06 10:45:36.010] [MANGOHUD] [error] [overlay_params.cpp:999] Failed to read presets file: '/home/jimbo/.config/MangoHud/presets.conf'
+boot:  0.00M
+ntlm_auth: /usr/lib64/samba/libauthkrb5-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libcliauth-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libcmdline-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libgenrand-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libgensec-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libgse-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libreplace-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libsamba-debug-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libsamba-security-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libsamba3-util-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+ntlm_auth: /usr/lib64/samba/libsecrets3-samba4.so: version `SAMBA_4.18.8_SAMBA4' not found (required by ntlm_auth)
+[2024-01-06 10:45:36.694] [MANGOHUD] [error] [overlay_params.cpp:999] Failed to read presets file: '/home/jimbo/.config/MangoHud/presets.conf'
+[2024-01-06 10:45:36.739] [MANGOHUD] [error] [overlay_params.cpp:999] Failed to read presets file: '/home/jimbo/.config/MangoHud/presets.conf'
+Refresh: 60Hz
+------------------- The Lb the file which is sung ----------------
+data\sound\adx\town\bgm_004.adx
+data\sound\adx\apart\bgm_103.aix
+data\sound\adx\town\bgm_018.adx
+data\sound\adx\forest\bgm_114_a.adx
+data\sound\adx\end\BGM_012.adx
+data\sound\adx\forest\bgm_115.aix
+data\sound\adx\apart\bgm_003.adx
+data\sound\adx\prison\bgm_109.aix
+data\sound\adx\forest\bgm_022.adx
+data\sound\adx\apart\bgm_102.aix
+data\sound\adx\.mkimage
+data\sound\adx\mansion\bgm_104.aix
+data\sound\adx\hotel\bgm_112_NG.aix
+data\sound\adx\hospital\bgm_100.aix
+data\sound\adx\prison\bgm_015.adx
+data\sound\adx\town\bgm_005.adx
+data\sound\adx\hospital\bgm_123.aix
+data\sound\adx\prison\bgm_128.aix
+data\sound\adx\hospital\bgm_021.adx
+data\sound\adx\hotel\bgm_113.aix
+data\sound\adx\hospital\bgm_016.adx
+data\sound\adx\hotel\bgm_124.aix
+data\sound\adx\prison\bgm_120.aix
+data\sound\adx\apart\bgm_001.adx
+data\sound\adx\apart\bgm_014.adx
+data\sound\adx\hotel\bgm_112.aix
+data\sound\adx\prison\bgm_116.aix
+data\sound\adx\apart\bgm_101.aix
+data\sound\adx\prison\bgm_020.adx
+data\sound\adx\hotel\bgm_007.adx
+data\sound\adx\voice\voice.afs
+data\sound\adx\prison\bgm_107.aix
+data\sound\adx\town\bgm_117.aix
+data\sound\adx\hotel\bgm_121.aix
+data\sound\adx\hotel\bgm_126.adx
+data\sound\adx\apart\bgm_118.aix
+data\sound\adx\hotel\bgm_017.adx
+data\sound\adx\hospital\bgm_106.aix
+data\sound\adx\hospital\bgm_111.aix
+data\sound\adx\hotel\bgm_009.adx
+data\sound\adx\apart\bgm_125.aix
+data\sound\adx\end\BGM_002.adx
+data\sound\adx\prison\bgm_110.aix
+data\sound\adx\forest\bgm_114_b.aix
+data\sound\adx\hotel\bgm_108.aix
+data\sound\adx\hotel\bgm_122.aix
+data\sound\adx\hospital\bgm_119.aix
+data\sound\adx\hospital\bgm_105.aix
+------------------------------------------------------
+ADX_SE}X^[{[:   1.000(120)
+V[PX}X^[{[:   0.813(96)
+ADX_SE}X^[{[:   0.813(96)
+V[PX}X^[{[:   0.813(96)
+ADX_SE}X^[{[:   0.813(96)
+title.tex: read finished(0.01)
+title.tex: read finished(0.03)
+NoTex Character
+NoTex Character
+NoTex Character
+NoTex Character
+NoTex Character
+NoTex Character
+0024:err:dsound:DSBuffer_Initialize Panning for multi-channel buffers is not supported
+[ALSOFT] (EE) Context 03776860 current for thread being destroyed!
+Stream Ready Stop : 0.000
+NoTex Character
+Stream Ready Stop : 0.000
+=== quit ===
+Monitored process exited.
+No return code
